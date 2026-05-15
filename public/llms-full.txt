@@ -2,13 +2,13 @@
 
 VantaScent is a premium Israeli boutique fragrance accessories brand with a deep luxury aesthetic. The brand centers around a single hero product — PocketScent, a 5ml refillable perfume atomizer — positioned as an elegant everyday carry item. The brand voice is minimal, confident, and aspirational, with a dark and sophisticated visual identity (deep black and rich purple). The product is marketed with full transparency: it does not include perfume, and is designed for personal fragrance refills. The overall vibe is that of a high-end European perfume house, adapted for modern Israeli consumers who value both aesthetics and practicality.
 
-Source: https://vantascent-c3b5ca19.zappy5.app
+Source: https://example.com
 
 ---
 
 ## אטומייזר בושם קומפקטי לנסיעות — VantaScent
 
-URL: https://vantascent-c3b5ca19.zappy5.app
+URL: https://example.com
 Description: VantaScent is a premium Israeli boutique fragrance accessories brand with a deep luxury aesthetic. The brand centers around a single hero product — PocketScent,
 
 אטומייזר בושם קומפקטי לנסיעות — VantaScent
@@ -976,7 +976,7 @@ PocketScent – אטומייזר בושם קומפקטי לנסיעות – מי
 
 ## מדיניות פרטיות
 
-URL: https://vantascent-c3b5ca19.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1161,7 +1161,7 @@ VantaScent ("החברה", "אנו", "שלנו") מחויבת להגן על פר�
 
 ## הצהרת נגישות
 
-URL: https://vantascent-c3b5ca19.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1355,7 +1355,7 @@ VantaScent מחויבת להנגיש את השירותים לכלל הציבור
 
 ## תנאי שימוש
 
-URL: https://vantascent-c3b5ca19.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
