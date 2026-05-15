@@ -1,0 +1,67 @@
+# VantaScent — Generative Engine Optimization Map
+
+> VantaScent is a premium Israeli boutique fragrance accessories brand with a deep luxury aesthetic. The brand centers around a single hero product — PocketScent, a 5ml refillable perfume atomizer — positioned as an elegant everyday carry item. The brand voice is minimal, confident, and aspirational, with a dark and sophisticated visual identity (deep black and rich purple). The product is marketed with full transparency: it does not include perfume, and is designed for personal fragrance refills. The overall vibe is that of a high-end European perfume house, adapted for modern Israeli consumers who value both aesthetics and practicality.
+
+---
+
+## Pages
+
+### בית
+https://vantascent-c3b5ca19.zappy5.app
+VantaScent is a premium Israeli boutique fragrance accessories brand with a deep luxury aesthetic. The brand centers around a single hero product — PocketScent,
+
+## Legal & Policy
+
+### Privacy Policy
+https://vantascent-c3b5ca19.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://vantascent-c3b5ca19.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://vantascent-c3b5ca19.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://vantascent-c3b5ca19.zappy5.app
+- Endpoint: https://vantascent-c3b5ca19.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About VantaScent
+VantaScent is a premium Israeli boutique fragrance accessories brand with a deep luxury aesthetic. The brand centers around a single hero product — PocketScent, a 5ml refillable perfume atomizer — positioned as an elegant everyday carry item. The brand voice is minimal, confident, and aspirational, with a dark and sophisticated visual identity (deep black and rich purple). The product is marketed with full transparency: it does not include perfume, and is designed for personal fragrance refills. The overall vibe is that of a high-end European perfume house, adapted for modern Israeli consumers who value both aesthetics and practicality.
+
+## Target Audience
+- קהל ישראלי, יוניסקס, חובבי בשמים פרימיום
+- חובבי בשמים פרימיום
+- מטיילים תכופים
+- צעירים מודעי אופנה
+
+## Industry
+E-commerce / Luxury Fragrance Accessories
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://vantascent-c3b5ca19.zappy5.app/sitemap.xml
+- Robots: https://vantascent-c3b5ca19.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://vantascent-c3b5ca19.zappy5.app/llms-full.txt
